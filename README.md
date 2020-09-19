@@ -1,10 +1,10 @@
 # Engine
 
+FORK for testing only. Check the original project instead
+
 A basic cross-platform (Mac, Windows, Linux, HTML5, Android) 3D game engine.
 
-ONLINE DEMO: https://shervanator.github.io/Engine/
 
-[![Build Status](https://travis-ci.org/Shervanator/Engine.svg?branch=master)](https://travis-ci.org/Shervanator/Engine)
 
 Feature:
 
