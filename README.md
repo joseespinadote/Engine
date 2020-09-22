@@ -4,7 +4,7 @@ FORK for testing only. Check the original project instead
 
 A basic cross-platform (Mac, Windows, Linux, HTML5, Android) 3D game engine.
 
-
+I'm using this fork to test Travis CI API v3. Drop me a message if you are interested
 
 Feature:
 
