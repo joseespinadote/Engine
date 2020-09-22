@@ -121,3 +121,7 @@ deploy:
   on:
     branch: master
     condition: $BUILD_TYPE = emscripten
+
+notifications:
+  webhooks: http://jose-cl.duckdns.org:5000/webhook
+
